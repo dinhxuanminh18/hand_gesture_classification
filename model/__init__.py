@@ -1,0 +1,2 @@
+from model.key_point_classifier.key_point_classifier import KeyPointClassifier
+from model.asl_classification.asl_classifier import AslClassifier
